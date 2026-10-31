@@ -1,3 +1,65 @@
-p {
-    color: red;
+/* div {
+    height: 100px;
+    background-color: rgb(135, 62, 204);
+    width: 200px;
+    border-style: solid;
+    border-width: 3px;
+    border-color: rgb(16, 145, 215);
+    border-radius: 15px;
+    padding-left:50px ;
+    padding-top: 20px;
+
+} */
+h1{
+    color:rgb(111, 237, 195);
+    background-color: rgb(11, 182, 201);
+    height: 200px;
+    width: 200px;
+    border:4px dashed rgb(13, 16, 211);
+    border-radius:15px;
+    padding-top: 15px;
+    padding-left:20px ;
+
+  }
+  #outer{
+    background-color: rgb(75, 72, 75);
+    height:400px;
+    width: 120px;
+    border:3px solid black;
+    padding: 20px;
+
+    
+    
+  }
+ #red{
+    height:100px;
+    width: 100px;
+    background-color: red;
+    border:3px solid ;
+    border-radius: 50px;
+    
+ }
+
+#blue{
+    height: 100px;
+    width: 100px;
+    background-color:rgb(201, 249, 11) ;
+    border:3px solid;
+    border-radius: 50px;
+    
+
+
+
+
+
+}
+#pink{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(10, 244, 61);
+    border:3px solid;
+    border-radius: 50px;
+    
+    
+
 }
